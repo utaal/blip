@@ -1,0 +1,7 @@
+[package]
+name = "blip"
+version = "0.1.0"
+authors = ["Andrea Lattuada <andrea.lattuada@inf.ethz.ch>"]
+edition = "2018"
+
+[dependencies]
